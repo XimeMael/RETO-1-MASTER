@@ -1,5 +1,5 @@
 
-# Términos de AZURE
+# TÉRMINOS AZURE
 
 ## ¿Qué es Azure?
 Azure es un conjunto de servicios en la nube en expansión constante que ayudan a la organización a cumplir los desafíos empresariales actuales y futuros. Azure le ofrece la libertad de compilar, administrar e implementar aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
