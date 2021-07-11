@@ -1,4 +1,7 @@
-![XIMENA TOLEDO RIVERA](https://github.com/XimeMael/RETO-1-MASTER/blob/main/IMAGES/XimeMael.png){width='100px'}
+<iframe width="600" height = "420"
+src="https://github.com/XimeMael/RETO-1-MASTER/blob/main/IMAGES/XimeMael.png">
+</iframe>
+
 
 
 ---
