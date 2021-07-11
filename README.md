@@ -17,9 +17,8 @@ Dicho de otro modo, la informática en la nube es una forma de alquilar potencia
 
 
 
-
+---
 
 - [TERMINOS DE AZURE](https://github.com/XimeMael/RETO-1-MASTER/blob/main/Anythingextensionmd/SURFERS/AZURE.md)
 
----
 - [SURFERS](https://github.com/XimeMael/RETO-1-MASTER/blob/main/Anythingextensionmd/SURFERS/SURFERS.md)
