@@ -1,1 +1,1 @@
-![Surfer A](XimeMael.jpg)
+![Surfer A](XimeMael.png)
