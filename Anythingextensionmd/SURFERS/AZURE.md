@@ -26,12 +26,37 @@ Cada región de Azure se empareja siempre con otra región de la misma zona geog
 
 ***
 # VARIANTES
-## PaaS
-Modelo de servicio en un entorno de alojamiento gestionado. El proveedor se encarga de la maquinas virtuales y recursos de red. El inquilino de las aplicaciones.
-## SaaS
-El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
 ## IaaS
 Modelo de servicio que es muy cercano a tener Data Centers físicos, El proveedor solo se encarga del software.
+### Ventajas
+* Sin gastos de capital (CapEx).
+* Modelo de servicio que es muy cercano a tener Data Centers físicos, El proveedor solo se encarga del software.
+* Agilidad. Se pueden configurar las aplicaciones con rapidez para que sean accesibles y des aprovisionarlas cuando sea necesario.
+* Administración. Se aplica el modelo de responsabilidad compartida; el usuario administra y mantiene los servicios que ha aprovisionado, y el proveedor de nube administra y mantiene la infraestructura en la nube.
+* Modelo basado en el consumo. Las organizaciones solo pagan por lo que usan y operan en un modelo de gastos operativos (OpEx).
+* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una nube pública u obtener las ventajas que esta ofrece.
+* Flexibilidad. IaaS es el servicio en la nube más flexible, ya que se dispone de control para configurar y administrar el hardware que ejecuta una aplicación.
+## PaaS
+Modelo de servicio en un entorno de alojamiento gestionado. El proveedor se encarga de la maquinas virtuales y recursos de red. El inquilino de las aplicaciones.
+### Ventajas
+* Sin gastos de capital (CapEx).
+* Agilidad. PaaS es más ágil que IaaS, y no es necesario que los usuarios configuren servidores para ejecutar aplicaciones.
+* Modelo basado en el consumo. Los usuarios solo pagan por lo que usan y operan bajo un modelo OpEx.
+* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar una plataforma PaaS u obtener las ventajas que esta ofrece.
+* Ventajas que ofrece la nube. Los usuarios pueden aprovechar las aptitudes y la experiencia del proveedor de nube para asegurarse de que sus cargas de trabajo sean seguras y tengan alta disponibilidad.
+* Productividad. Los usuarios se pueden centrar únicamente en el desarrollo de aplicaciones, ya que el proveedor de nube lleva a cabo toda la administración de plataformas. 
+### Desventajas 
+Limitaciones de la plataforma. Es posible que en las plataformas en la nube haya una serie de limitaciones que pueden afectar al modo en el que una aplicación se ejecuta. 
+## SaaS
+El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
+### Ventajas
+* Sin gastos de capital (CapEx).
+* Agilidad. Los usuarios pueden proporcionar al personal acceso al software más reciente de forma fácil y rápida.
+* Modelo de precio de pago por uso.
+* Aptitudes. No se requieren conocimientos técnicos avanzados para implementar y usar software SaaS u obtener las ventajas que este ofrece.
+* Flexibilidad. Los usuarios pueden acceder a los mismos datos de la aplicación desde cualquier lugar.
+### Desventajas 
+Limitaciones de software. Es posible que en las aplicaciones de software haya una serie de limitaciones que pueden afectar al modo en el que los usuarios trabajan. 
 ***
 # LA NUBE
 ## ¿Qué es la informática en la nube?
