@@ -1,10 +1,7 @@
 
 
 <div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://github.com/XimeMael/RETO-1-MASTER/blob/main/IMAGES/XimeMael.png">
-</iframe>
+<img src="https://github.com/XimeMael/RETO-1-MASTER/blob/main/IMAGES/XimeMael.png" alt="JuveR" width="300px">
 </div>
 </p>
 
