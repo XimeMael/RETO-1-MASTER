@@ -1,5 +1,6 @@
 # INTRODUCCIÓN 
 ## ¿Qué es la informática en la nube?
+
 ¿Por qué suele ser más barato usar la informática en la nube?
 La informática en la nube es la prestación de servicios informáticos a través de Internet mediante un modelo de precios de pago por uso.
 ---
