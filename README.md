@@ -1,23 +1,22 @@
-# Computo en la nube
-"Es la entrega de servicios de computo a través de internet"
-
 # ¿Qué es la informática en la nube?
-la nube es el suministro de servicios informáticos (incluidos servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia) a través de Internet (“la nube”), cuyo objetivo es ofrecer una innovación más rápida, recursos flexibles y economías de escala. 
+¿Por qué suele ser más barato usar la informática en la nube?
+La informática en la nube es la prestación de servicios informáticos a través de Internet mediante un modelo de precios de pago por uso.
+---
+Permiten...
 
-# Nube pública
-Las nubes públicas son propiedad de otros proveedores de servicios en la nube, que las administran y ofrecen sus recursos informáticos, como servidores y almacenamiento, a través de Internet. 
+* Reducir los costos operativos.
+* Ejecutar la infraestructura de forma más eficaz.
+* Escalar a medida que cambien las necesidades empresariales.
 
-# Nube privada
-Una nube privada puede encontrarse físicamente en el centro de datos local de una compañía.
 
-# Nube híbrida
-Las nubes híbridas combinan nubes públicas y privadas, enlazadas mediante tecnología que permite compartir datos y aplicaciones entre ellas. 
+Dicho de otro modo, la informática en la nube es una forma de alquilar potencia de proceso y almacenamiento de un centro de datos de terceros. Los recursos de la nube se pueden tratar igual que los recursos de un centro de datos propio. Cuando haya terminado con ellos, solo hay que devolverlos. Únicamente se le cobrará por lo que use. En lugar de mantener las CPU y el almacenamiento en un centro de datos, se alquilan durante el tiempo que sea necesario. El proveedor de nube se encarga de mantener la infraestructura subyacente por usted. La nube permite resolver rápidamente los desafíos empresariales más difíciles y proporcionar soluciones de vanguardia a los usuarios.
 
-# Ventajas de una plataforma de nube híbrida
-Una plataforma de nube híbrida ofrece muchas ventajas a las organizaciones; por ejemplo, más flexibilidad, más opciones de implementación, seguridad,cumplimiento normativo y la posibilidad de obtener más valor de su infraestructura actual.
 
-# Nube pública, privada o híbrida:¿qué opción elegir?
-Hay tres formas diferentes de implementar los servicios en la nube: nube pública, nube privada o nube híbrida. El método de implementación depende de las necesidades de su empresa.
+
+
+
+
+
 
 
 
