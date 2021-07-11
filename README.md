@@ -12,3 +12,7 @@ Una nube privada puede encontrarse físicamente en el centro de datos local de u
 
 # Nube híbrida
 Las nubes híbridas combinan nubes públicas y privadas, enlazadas mediante tecnología que permite compartir datos y aplicaciones entre ellas. 
+
+# Ventajas de una plataforma de nube híbrida
+
+Una plataforma de nube híbrida ofrece muchas ventajas a las organizaciones; por ejemplo, más flexibilidad, más opciones de implementación, seguridad, cumplimiento normativo y la posibilidad de obtener más valor de su infraestructura actual.
